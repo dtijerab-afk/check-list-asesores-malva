@@ -1,0 +1,6 @@
+{
+  "name": "MALVA — Evaluación de Asesores",
+  "description": "Aplicación de evaluación y check-list de desempeño de asesores por marca para MALVA Department Store.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
